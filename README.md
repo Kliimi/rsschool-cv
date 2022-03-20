@@ -1,1 +1,1 @@
-https://Kliimi.github.io/rsschool-cv/cv
+https://Kliimi.github.io/rsschool-cv/
