@@ -59,3 +59,22 @@ function highAndLow(numbers){
 
 ```
 ---
+
+## **Education**
+* Books:
+
+    * Head First HTML and CSS
+    * Head First JavaScript Programming
+
+    * Aditya Bhargava - Grokking Algorithms (in progress)
+* Courses:
+    * [HTML and CSS courses](https://ru.code-basics.com/)
+    * [HTML and CSS course on Stepik](https://ru.code-basics.com/)
+    * [Learn JavaScript](https://learn.javascript.ru/) (in progress)
+
+---
+
+## **Languages**
+* Russian - Native
+* English - Pre-Intermediate (CEFR A2+)
+
